@@ -4,7 +4,7 @@
 O OPEN-PBL PROJECT compreende as ações relacionadas à **pesquisa** e ao **desenvolvimento** contínuo de um Open Source Software (OSS) capaz de gerenciar experiências de aprendizado que estimulem os alunos a aplicar suas **habilidades de pensamento crítico** para resolver **problemas do mundo real**.
 
 **OBJETIVO**<br>
-O objetivo do OPEN-PBL PROJECT é disponibilizar, periodicamente, **versões atualizadas** do OPEN-PBL LMS, um Learning Management System (LMS) open source com foco na gestão de experiências de Problem-Based Learning (PBL).  
+O objetivo do OPEN-PBL PROJECT é disponibilizar, periodicamente, **versões atualizadas** da OPEN-PBL APP, um plug-in open source para Learning Management Systems (LMS) com foco na gestão de experiências de Problem-Based Learning (PBL).  
 
 **QUEM PARTICIPA**<br>
 Profissionais da áreas de **educação**, **engenharia de software**, **análise de sistemas** de software e da **ciência da computação** participam do PROJETO OPEN-PBL de forma voluntária e sem qualquer contrapartida financeira.
